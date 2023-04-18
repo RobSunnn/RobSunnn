@@ -1,4 +1,4 @@
-# Hi there 👋 I am Roberto. Thank you for coming by. 
+# Hi there 👋 I am Roberto. Thank you for coming by. :pray:
 <br>
 <br>
 
@@ -7,8 +7,8 @@
 
 
 ### These are the cetificates I have earned so far: 
--  [Programming Basics](https://softuni.bg/certificates/details/125160/ade37b33)
--  [Fundamentals Module](https://softuni.bg/certificates/details/169293/1fb49d57)
+-  [Java Basics](https://softuni.bg/certificates/details/125160/ade37b33)
+-  [Java Fundamentals](https://softuni.bg/certificates/details/169293/1fb49d57)
 -  [Java Advanced](https://softuni.bg/certificates/details/161836/67400029)
 -  [Java OOP](https://softuni.bg/certificates/details/168988/1526a52d)
 
