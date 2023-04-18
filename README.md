@@ -2,7 +2,8 @@
 <br>
 <br>
 
-## 🌱 I’m currently learning Java
+## 🌱 I’m currently learning ![java image](https://user-images.githubusercontent.com/100959760/232734503-7bbc4d9e-da70-4073-88de-3ffad79a6ccd.png)
+
 
 ### These are the cetificates I have earned so far: 
 -  [Programming Basics](https://softuni.bg/certificates/details/125160/ade37b33)
