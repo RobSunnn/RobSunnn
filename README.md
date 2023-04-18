@@ -2,7 +2,7 @@
 
 
 
-- 🌱 I’m currently learning Java
+###- 🌱 I’m currently learning Java
 
 - These are the cetificates I have earned so far: 
 -  [Programming Basics](https://softuni.bg/certificates/details/125160/ade37b33)
