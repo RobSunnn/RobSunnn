@@ -1,6 +1,8 @@
 # Hi there 👋 I am Roberto. Thank you for coming by. :pray:
 <br>
 <br>
+![giphy](https://user-images.githubusercontent.com/100959760/232742102-193557b1-c21b-4521-abf3-a35b2bc37632.gif)
+
 
 ## 🌱 I’m currently learning ![java image](https://user-images.githubusercontent.com/100959760/232734995-620de049-c11b-4a9e-81a0-473b74bb7778.png)
 
