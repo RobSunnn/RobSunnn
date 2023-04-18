@@ -20,7 +20,7 @@
 
 
 
-![Snake animation](https://github.com/RobSunnn/RobSunnn/blob/output/github-contribution-grid-snake.svg)
+
 
 
 <!--
