@@ -2,7 +2,8 @@
 <br>
 <br>
 
-## 🌱 I’m currently learning 
+## 🌱 I’m currently learning ![java image](https://user-images.githubusercontent.com/100959760/232734995-620de049-c11b-4a9e-81a0-473b74bb7778.png)
+
 
 
 ### These are the cetificates I have earned so far: 
