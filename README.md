@@ -2,15 +2,15 @@
 
 
 
-- 🌱 I’m currently learning Java
+## 🌱 I’m currently learning Java
 
-- These are the cetificates I have earned so far: 
+### These are the cetificates I have earned so far: 
 -  [Programming Basics](https://softuni.bg/certificates/details/125160/ade37b33)
 -  [Fundamentals Module in SoftUni](https://softuni.bg/certificates/details/169293/1fb49d57)
 -  [Java Advanced](https://softuni.bg/certificates/details/161836/67400029)
 -  [Java OOP](https://softuni.bg/certificates/details/168988/1526a52d)
 
-- 📫 How to reach me:
+## 📫 How to reach me:
 
 
 <!--
