@@ -1,6 +1,5 @@
 # Hi there 👋 I am Roberto. Thank you for coming by. :pray:
 ![giphy](https://user-images.githubusercontent.com/100959760/232742710-5e17888c-dc97-4de3-a952-78da123413ec.gif)
-
 <br>
 
 ## :books: I’m currently learning ![java image](https://user-images.githubusercontent.com/100959760/232734995-620de049-c11b-4a9e-81a0-473b74bb7778.png)  ![mysql](https://user-images.githubusercontent.com/100959760/232744697-480a3292-7d04-498e-b4a0-eb6e3deeca8c.png) ![2560px-Spring_Framework_Logo_2018 svg](https://user-images.githubusercontent.com/100959760/232745189-c51d916e-d29b-4100-bbf8-c61abda89a86.png) 
